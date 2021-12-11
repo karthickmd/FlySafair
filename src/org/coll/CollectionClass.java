@@ -4,6 +4,12 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class CollectionClass {
+	
+	
+	public void selenium() {
+		System.out.println("git hub");
+
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -15,6 +21,12 @@ public class CollectionClass {
 		li.add(2389.883f);
 		li.add(2345);
 
+		
+		
+		
+		
+		
+		
 		System.out.println(li);
 		int size = li.size();
 		System.out.println(size);
