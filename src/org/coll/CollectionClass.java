@@ -5,7 +5,9 @@ import java.util.List;
 
 public class CollectionClass {
 	
-	
+	public void java() {
+		System.out.println("facebook");
+	}
 	public void selenium() {
 		System.out.println("git hub");
 
