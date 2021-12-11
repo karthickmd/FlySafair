@@ -40,5 +40,8 @@ public class CollectionClass {
 			
 		}
 	}
+	public void testzero() {
+		System.out.println("test pass");
+	}
 
 }
